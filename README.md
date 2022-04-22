@@ -17,6 +17,6 @@ Al realizar el curso de Plazti: Python profesional, se han necesitado una serie 
 - sets.py
 
 Fuera de este curso, pero visto en un plazi Live
-- Se agrega una clase más para trabajar con una API (fakeapi.platzi.com)
+- Se agrega una clase más para trabajar con una API (https://fakeapi.platzi.com)
   - puedes encontrar el ejemplo para postman aquí https://fakeapi.platzi.com/doc/postman
-- API-fake-api.py
+- API-fake-api.py - Ejemplo para traer el catálogo
